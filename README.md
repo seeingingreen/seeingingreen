@@ -1,3 +1,7 @@
+# Soft Launch of My Blog
+
+Currently named "seeingingreen" so that Github pages works
+
 # Usage
 
 This folder contains the source used to generate a static site using Nikola.
