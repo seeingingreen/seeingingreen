@@ -24,5 +24,4 @@ I'm always working on some kind of project, I figured this would be a good place
 
 (Testing embedded images but also he's really cute)
 
-<img src="../images/dog.jpg" alt="dog"/>
-<!--![My Sweet Angel](dog.jpg "Dog")-->
+<img src="../images/001-chris-has-a-blog-now/dog.jpg" alt="dog"/>
